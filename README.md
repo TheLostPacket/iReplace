@@ -3,7 +3,7 @@ iReplace is an open-source project that reimagines the iPod experience with a fu
 
 
 
-# Legal
+___
 
 © Adam Kirby 2025 - Present Day. All rights reserved.
 
