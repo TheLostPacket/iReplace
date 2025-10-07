@@ -1,5 +1,11 @@
 # iReplace™
-iReplace™ is an open-source project that reimagines the iPod experience with a fully replaceable, modern design. It allows damaged iPods to be repaired or recreated using entirely new, readily available components, avoiding the scarcity and high cost of vintage parts while preserving the functionality and feel of the original device.
+iReplace™ is an open-source project that reimagines the iPod experience for today. It comes in two distinct versions:
+
+iReplace™ Classic – a drop-in replacement that’s almost fully compatible with original iPod hardware. It’s designed for those who want to restore their existing devices while keeping the authentic internals and look of the classic iPod.
+
+iReplace™ – a complete modern recreation built entirely from new, readily available components. It delivers the feel and functionality of the original iPod without relying on scarce or expensive vintage parts.
+
+Together, these projects make it possible to repair, rebuild, or reinvent the iPod experience for the modern era.
 
 ![](assets/logo/logo.png)
 
