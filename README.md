@@ -7,6 +7,8 @@ iReplace™ – a complete modern recreation built entirely from new, readily av
 
 Together, these projects make it possible to repair, rebuild, or reinvent the iPod experience for the modern era.
 
+https://discord.gg/nTnRsJ9JKP
+
 ![](assets/logo/logo.png)
 
 ___
