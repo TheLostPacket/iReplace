@@ -9,7 +9,8 @@ https://theelectronvault.substack.com/p/ipod-video-5th-generation-click-wheel
 iamge credit: link in markdown file
 
 Clickwheel pinout
-| Connector Pin            | Clickwheel Pin       |                       |
+| Connector Pin            | Clickwheel Pin       | Pin Name                      |
 |--------------------------|-----------------|-------------------------------------|
-| `/src/app.js`            | `app.js`        | Alice Johnson, Bob Smith            |
+|             |         |           |
+
 
