@@ -11,6 +11,17 @@ iamge credit: link in markdown file
 Clickwheel pinout
 | Connector Pin            | Clickwheel Pin       | Pin Name                      |
 |--------------------------|-----------------|-------------------------------------|
-|             |         |           |
-
+|             | 1        | GND          |
+|             | 2        | SEL          |
+|             | 3        | RW           |
+|             | 4        | MENU         |
+|             | 5        | FF           |
+|             | 6        | PP           |
+|             | 7        | UNKNOWN      |
+|             | 8        | SDI          |
+|             | 9        | RESET        |
+|             | 10       | WAKE         |
+|             | 11       | SDO          |
+|             | 12       | CLK          |
+|             | 13       | 3.3V         |
 
