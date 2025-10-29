@@ -1,4 +1,4 @@
-# ClickDev
+# ClickDev - Please note untested PCB layout
 
 ClickDev is a development board for use with a 5th gen clickweel and optionally a Raspbery Pi Pico.
 
@@ -24,4 +24,5 @@ Clickwheel pinout
 |             | 11       | SDO          |
 |             | 12       | CLK          |
 |             | 13       | 3.3V         |
+
 
