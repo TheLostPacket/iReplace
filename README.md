@@ -16,6 +16,6 @@ https://discord.gg/nTnRsJ9JKP
 
 ___
 
-© Adam Kirby 2025 - Present Day. All rights reserved.
+© Adam Kirby 2025 - 2026 and to Present Day. All rights reserved.
 
 This project, in its entirety, is claimed as a copyrighted work. While individual components, symbols, schematic elements, or other parts included in this design may be owned by others or be in the public domain, the overall design, structure, and presentation of this project is copyrighted.
