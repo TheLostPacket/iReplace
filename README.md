@@ -8,9 +8,9 @@ iReplace – a complete modern recreation built entirely from new, readily avail
 Together, these projects make it possible to repair, rebuild, or reinvent the iPod experience for the modern era.
 
 
-For more information on the current status please look at the discord.
+For more information on the current status please look at my discord server.
 
-https://discord.gg/nTnRsJ9JKP
+https://discord.gg/UngugUEGfn
 
 ![](assets/logo/logo.png)
 
